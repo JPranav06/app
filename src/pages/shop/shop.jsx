@@ -4,6 +4,7 @@ import Product from './Product';
 import "./shop.css"
 
 
+
 const Shop = () => {
   return (
     <div className='shop'>
